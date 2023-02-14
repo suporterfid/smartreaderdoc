@@ -16,11 +16,11 @@ Smartreader provides a simple reader configuration user interface for deploying 
 This software is not intended to be a complete end-to-end inventory management solution.
 
 ## Characteristics
-• Easy-to-use graphical user interface for single reader deployments
+- Easy-to-use graphical user interface for single reader deployments
 used to identify RAIN RFID tags
-• Tag data read (EPC, user memory and TID)
-• Defines basic reader settings for reading RAIN RFID tags and saving the configuration directly in the reader's memory
-• Sending RAIN RFID data via MQTT, HTTP POST, Socket TCP/IP Server, UDP Server, USB flash drive or serial port over USB
+- Tag data read (EPC, user memory and TID)
+- Defines basic reader settings for reading RAIN RFID tags and saving the configuration directly in the reader's memory
+- Sending RAIN RFID data via MQTT, HTTP POST, Socket TCP/IP Server, UDP Server, USB flash drive or serial port over USB
 (when available on the reader)
 
 ## Supported Impinj Hardware and Firmware Versions
