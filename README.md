@@ -49,7 +49,7 @@ In this section you can configure a time in seconds for Smartreader to send noti
 In this section, you will configure the reader operating mode, transmit power, and GPIO settings.
 
 #### RAIN RFID Settings
-Here you can configure RAIN RFID related parameters such as RF operation mode, inventory mode, target sections, tag population estimation and transmit power for each antenna individually, it is also possible to define a name of a reading zone for each antenna.
+Here you can configure RAIN RFID related parameters such as RF operation mode, inventory mode, target sessions, tag population estimation and transmit power for each antenna individually, it is also possible to define a name of a reading zone for each antenna.
 
 *Important! Smartreader will automatically identify the reader model and the total number of antennas. For example, if you have an R700 with 2 Antenna Hubs, there will be 18 ports available for configuration on this screen.*
 
