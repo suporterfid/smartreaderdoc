@@ -33,8 +33,13 @@ All firmware versions after 8.1.0.240 (included) are supported
 ## Installing Smartreader on your Impinj reader
 Install Smartreader software via the Impinj readers web interface
 1. First, download the Smartreader software.
-2. Enter the Impinj Reader Web Interface. In the *“Reader Upgrade”* section, *“Select Upgrade File”*, choose the Smartreader for Impinj software file that you downloaded to your PC.
-3. After choosing the correct “.UPGX” file, proceed with installing the Smartreader for Impinj software as if you were updating the firmware on the Impinj reader. It may take the reader up to three minutes to unzip and install all the necessary files. Let the reader complete the installation and then proceed with restarting the reader.
+2. Enter the Impinj Reader Web Interface. 
+3. Select the .upgx file by either clicking on the select link or by dragging the file into the boxed region. 
+4. Once the upload finishes, the firmware verification and installation will start automatically. When the install is complete, the new cap will not be active until the reader is rebooted.
+5. Click the Reboot button to reboot the reader. The connection to the reader will be disrupted and the Reboot button will pulse until it comes back.
+
+It may take the reader up to three minutes to unzip and install all the necessary files. Let the reader complete the installation and then proceed with restarting the reader.
+
 To access the Smartreader configuration screen, open a web browser by providing the following address for the connection `https://reader_ip_address:8443/` where *reader_ip_address* represents the IP address or hostname of your Impinj reader. The default username and password to access the configuration screen are: “admin” and “admin”.
 
 To obtain a license for your reader, contact your Smartreader vendor.
