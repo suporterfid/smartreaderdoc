@@ -25,8 +25,8 @@ used to identify RAIN RFID tags
 
 ## Supported Impinj Hardware and Firmware Versions
 Smartreader embedded software applications support the following readers:
-• IPJ-R700-241 - all settings (including Antenna Hub)
-• IPJ-R700-341 - all settings (including Antenna Hub)
+- IPJ-R700-241 - all settings (including Antenna Hub)
+- IPJ-R700-341 - all settings (including Antenna Hub)
 All firmware versions after 8.1.0.240 (included) are supported
 
 ## Installing Smartreader on your Impinj reader
