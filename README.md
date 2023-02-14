@@ -1,6 +1,6 @@
 # Smartreader R700
 
-The Smartreader R700 is an custom application (CAP) reference design that configures and manages an Impinj R700 RAIN RFID Reader interfacing with the Impinj IoT Interface with additional options to publish data directly form the reader to defined outputs like:
+The Smartreader R700 is an custom application (CAP) reference design that configures and manages an Impinj R700 RAIN RFID Reader interfacing with the Impinj IoT Interface with additional options to publish data directly from the reader to defined outputs like:
 - Local HTTP streams on the reader;
 - MQTT broker;
 - HTTP POST;
