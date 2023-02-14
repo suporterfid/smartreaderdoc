@@ -56,11 +56,11 @@ Here you can configure RAIN RFID related parameters such as RF operation mode, i
 Here you can configure how reader GPOs will behave.
 
 The following conditions can trigger a GPO change based on the following statuses
-• Normal
-• Reader Inventory Status
-• Reader Inventory Tag Status
-• Success on Rule Validation
-• Error on Rule Validation
+- Normal
+- Reader Inventory Status
+- Reader Inventory Tag Status
+- Success on Rule Validation
+- Error on Rule Validation
 
 When activating the GPO in NORMAL mode it is possible to activate or deactivate a GPO port by HTTP GET request:
 Enable port 1: 
