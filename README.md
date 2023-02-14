@@ -31,7 +31,7 @@ Smartreader embedded software applications support the following readers:
 All firmware versions after 8.1.0.240 (included) are supported
 
 ## Installing Smartreader on your Impinj reader
-Install Smartreader software via the Impinj readers web interface
+Install Smartreader software via the Impinj readers web interface (make sure the CAP authentication is set to **Open** - Any CAP can be installed on the reader.)
 1. First, download the Smartreader software.
 2. Enter the Impinj Reader Web Interface. 
 3. Select the .upgx file by either clicking on the select link or by dragging the file into the boxed region. 
