@@ -54,7 +54,6 @@ Here you can configure RAIN RFID related parameters such as RF operation mode, i
 
 #### Advanced GPO
 Here you can configure how reader GPOs will behave.
-
 The following conditions can trigger a GPO change based on the following statuses
 - Normal
 - Reader Inventory Status
