@@ -64,19 +64,19 @@ The following conditions can trigger a GPO change based on the following statuse
 
 When activating the GPO in NORMAL mode it is possible to activate or deactivate a GPO port by HTTP GET request:
 Enable port 1: 
-`https://reader_ip_address :8443/api/gpo/1/status/ON`
+`https://reader_ip_address:8443/api/gpo/1/status/ON`
 Disable port 1: 
-`https://reader_ip_address :8443/api/gpo/1/status/OFF`
+`https://reader_ip_address:8443/api/gpo/1/status/OFF`
 
 Enable port 2: 
-`https://reader_ip_address :8443/api/gpo/2/status/ON`
+`https://reader_ip_address:8443/api/gpo/2/status/ON`
 Disable port 2: 
-`https://reader_ip_address :8443/api/gpo/2/status/OFF`
+`https://reader_ip_address:8443/api/gpo/2/status/OFF`
 
 Enable port 3: 
-`https://reader_ip_address :8443/api/gpo/3/status/ON`
+`https://reader_ip_address:8443/api/gpo/3/status/ON`
 Disable port 3: 
-`https://reader_ip_address :8443/api/gpo/3/status/OFF`
+`https://reader_ip_address:8443/api/gpo/3/status/OFF`
 
 #### Triggers
 This is where you can configure GPI triggers to start/stop inventory based on external sensors.
